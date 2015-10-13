@@ -1,4 +1,4 @@
-package com.prolifics.adm.jkstuff.geeks4geeks;
+package com.dev.jkstuff.geeks4geeks;
 
 import java.util.ArrayList;
 import java.util.Collections;

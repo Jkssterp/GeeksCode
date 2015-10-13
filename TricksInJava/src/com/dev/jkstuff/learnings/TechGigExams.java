@@ -1,8 +1,8 @@
-package com.prolifics.adm.jkstuff;
+package com.dev.jkstuff.learnings;
 
 import static java.lang.Character.getNumericValue;
 
-public class Test {
+public class TechGigExams {
 
 	public static void main(String[] args) {
 		closingBrackets();

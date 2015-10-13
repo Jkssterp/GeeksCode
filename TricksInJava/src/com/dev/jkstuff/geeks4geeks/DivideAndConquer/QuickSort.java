@@ -1,4 +1,4 @@
-package com.prolifics.adm.jkstuff.geeks4geeks.DivideAndConquer;
+package com.dev.jkstuff.geeks4geeks.DivideAndConquer;
 
 public class QuickSort {
 	static int a[];

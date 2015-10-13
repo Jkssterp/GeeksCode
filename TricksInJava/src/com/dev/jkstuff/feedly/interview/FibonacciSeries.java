@@ -1,4 +1,4 @@
-package com.prolifics.adm.jkstuff.feedly.interview;
+package com.dev.jkstuff.feedly.interview;
 
 public class FibonacciSeries {
 

@@ -1,4 +1,4 @@
-package com.prolifics.adm.jkstuff.geeks4geeks;
+package com.dev.jkstuff.geeks4geeks;
 
 /**
  * Here is a simple Binary Search Tree program in which only insertion and

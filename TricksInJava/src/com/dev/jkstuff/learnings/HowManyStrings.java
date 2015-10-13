@@ -1,4 +1,4 @@
-package com.prolifics.adm.jkstuff.learnings;
+package com.dev.jkstuff.learnings;
 
 import java.io.IOException;
 

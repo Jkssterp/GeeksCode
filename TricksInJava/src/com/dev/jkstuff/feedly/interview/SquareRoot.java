@@ -1,6 +1,5 @@
-package com.prolifics.adm.jkstuff.feedly.interview;
+package com.dev.jkstuff.feedly.interview;
 
-import java.util.Scanner;
 
 /**
  * To find the Square Root of some 'x' value.

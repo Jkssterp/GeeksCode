@@ -1,4 +1,4 @@
-package com.prolifics.adm.jkstuff.feedly.interview.techgig;
+package com.dev.jkstuff.feedly.interview.techgig;
 
 import java.util.Vector;
 
