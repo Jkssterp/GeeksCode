@@ -1,5 +1,8 @@
 package com.dev.jkstuff.feedly.interview.techgig;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 import java.util.Vector;
 
 public class SkyLineProblem {
@@ -16,14 +19,15 @@ public class SkyLineProblem {
 					strip.height = max(strip.height, s.height);
 					return;
 				}
-				
 			}
 			return;
 		}
 
-		
 		private int max(int height, int height2) {
-			return 0;
+			List<Integer> heights = new ArrayList<Integer>();
+			heights.add(height);
+			heights.add(height2);
+			return Collections.max(heights);
 		}
 
 	}
