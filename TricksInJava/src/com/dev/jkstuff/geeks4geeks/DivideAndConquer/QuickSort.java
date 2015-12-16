@@ -44,7 +44,7 @@ public class QuickSort {
 
 	}
 
-	public int[] sortme(int p, int q) {// in the fisrt time p=0 q= a.length-1;
+	public int[] sortme(int p, int q) {// in the first time p=0 q= a.length-1;
 		if (p < q) {
 			int r = part(p, q);
 			sortme(p, r - 1);
